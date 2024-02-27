@@ -11,13 +11,10 @@
 활성화 함수(activation function) : 입력 신호의 총합을 출력 신호로 변환하는 함수   
 -> **퍼셉트론(perceptron)**
 
-<img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/a94d9517-d5b3-4ae1-8c4e-582eb8563d0c" width="400px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
+</br></br>
+### 예시   
+<img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/a94d9517-d5b3-4ae1-8c4e-582eb8563d0c" width="400px" height="300px" title="px(픽셀) 크기 설정" alt=""></img><img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/51134ebb-1542-4a53-a933-574822eb9674" width="300px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
 활성화 함수로 계단함수 사용   
-
-![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/51134ebb-1542-4a53-a933-574822eb9674)
-![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/8d90e58c-934d-4176-b544-dde6bda20c8a)
-![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/ce08d904-32db-46a6-91e0-770620b70e7e)
-
 이러한 과정을 수식으로 나타내면   
 <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/eddbeb2d-1128-4383-8b3d-f3e6d72d6ba6" width="300px" height="200px" title="px(픽셀) 크기 설정" alt=""></img></br></br>
 
@@ -25,9 +22,10 @@
 ## 퍼셉트론 학습 알고리즘
 인공신경망을 학습시켜 원하는값을 얻고자 함, 최적의 연결 가중치를 찾는 과정
 <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/773ec43d-50e7-4c6e-b1ac-0d483d8739b5" width="500px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br></br>
-
+<img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/8d90e58c-934d-4176-b544-dde6bda20c8a" width="500px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
 실제값과 예측값의 차이를 오차, 오차가 작아지도록 연결강도를 조절하는것을 학습   
 새연결강도=현연결강도+현입력값×오차×학습률   
+<img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/ce08d904-32db-46a6-91e0-770620b70e7e" width="500px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
 <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/f73aea79-414c-4f43-b634-704ff290918a" width="500px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
 </br>
 
