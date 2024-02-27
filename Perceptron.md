@@ -14,6 +14,9 @@
 <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/a94d9517-d5b3-4ae1-8c4e-582eb8563d0c" width="400px" height="300px" title="px(픽셀) 크기 설정" alt=""></img></br>
 활성화 함수로 계단함수 사용   
 
+![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/51134ebb-1542-4a53-a933-574822eb9674)
+![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/8d90e58c-934d-4176-b544-dde6bda20c8a)
+![image](https://github.com/yuuuuuuuuna/AI/assets/87286063/ce08d904-32db-46a6-91e0-770620b70e7e)
 
 이러한 과정을 수식으로 나타내면   
 <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/eddbeb2d-1128-4383-8b3d-f3e6d72d6ba6" width="300px" height="200px" title="px(픽셀) 크기 설정" alt=""></img></br></br>
