@@ -40,5 +40,8 @@
 - 활성화함수 : 시그모이드함수   
   <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/9b07b97d-a333-4022-bab3-d7a3c1630d4c" width="300px" height="200px" title="px(픽셀) 크기 설정" alt=""></img><br/><br/>
 - 오차 줄이기 위한 경사하강법   
+   예측값과 정답값 간의 차이인 손실 함수의 크기를 최소화시키는 파라미터를 찾는 것   
   <img src="https://github.com/yuuuuuuuuna/AI/assets/87286063/4b1ae40e-e6f3-4bd0-94d7-3f0af4c691b5" width="300px" height="200px" title="px(픽셀) 크기 설정" alt=""></img><br/><br/>
-- 역전파 알고리즘
+- 역전파 알고리즘   
+  출력층에서 입력층 방향으로 계산하면서 가중치를 업데이트
+  
